@@ -1,0 +1,29 @@
+/* id selector */
+#id{
+    color: bisque;
+}
+
+/* class selector  */
+.class{
+    color: aqua;
+}
+
+/* tag selector */
+p{
+    color: beige;
+}
+
+/* attribute selector */
+[class="html"]{
+    color: blue;
+}
+
+/* child selector*/
+ul p{
+    color: blanchedalmond;
+}
+
+/* pseudo selector */
+h1:hover{
+    color: blueviolet;
+}
